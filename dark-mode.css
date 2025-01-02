@@ -1,0 +1,14 @@
+/* Dark Mode Styles */
+body.dark-mode {
+    background: #121212;
+    color: #ffffff;
+  }
+  
+  .dark-mode header, .dark-mode footer {
+    background: #1f1f1f;
+  }
+  
+  .dark-mode .challenge {
+    background: #2c2c2c;
+    color: #ffffff;
+  }
